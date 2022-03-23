@@ -1,0 +1,231 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.testimonial-section {
+	padding: 32px 25px;
+}
+.\34 0-hour {
+	right: 6%;
+}
+.hills {
+	left: 6%;
+}
+.service-page-section {
+	padding: 30px 20px;
+}
+
+.service-page-section {
+	padding: 30px 25px;
+}
+.skll-section.style-two {
+	padding: 10px 17px;
+}
+.section-cr4zq.style-two {
+	padding: 50px 25px;
+}
+
+.portfolio-area .button-group {
+	padding: 0px 0px;
+}
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.auto-container {
+	padding: 0px 0px;
+}   
+.sc-img {
+	margin: 0 10px;
+}
+.btn-grey {
+	margin-right: 25px;
+}
+#ui--image-1 {
+	max-width: 100%;
+}
+.testimonial-section {
+	padding: 32px 25px;
+}
+.service-page-section {
+	padding: 30px 25px;
+}
+.skll-section.style-two {
+	padding: 10px 17px;
+}
+.section-cr4zq.style-two {
+	padding: 50px 25px;
+}
+.portfolio-area .button-group {
+	padding: 0px 0px;
+}
+
+}
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 992px) {
+.auto-container {
+	padding: 0px 20px;
+}  
+.main-menu ul li a {
+	padding: 18px 15px 18px;
+}
+.sc-img {
+	margin-bottom: 30px;
+}
+.sc-img {
+	height: 170px;
+	width: 170px;
+}
+.sc-img {
+	 margin: 0 0px; 
+}
+.sc-img img {
+	height: 140px;
+	width: 140px;
+}
+/*.btn {
+	margin-right: 50px;
+}*/
+.about p {
+	margin-right: 40px;
+}
+.center {
+	margin-bottom: 30px;
+}
+#ui--image-1 {
+	max-width: 100%;
+}
+.testimonial-section {
+	padding: 32px 25px;
+}
+.hills {
+	left: 0%;
+}
+.\34 0-hour {
+	right: 0%;
+}
+.service-page-section {
+	padding: 30px 25px;
+}
+.skll-section.style-two {
+	padding: 10px 17px;
+}
+.section-cr4zq.style-two {
+	padding: 50px 25px;
+}
+.portfolio-area .button-group {
+	padding: 0px 0px;
+}
+.contact-details a {
+	font-size: 16px;
+}
+
+.gallery-active-slide img {
+	height: auto !important;
+}
+.tool {
+	left: 74%;
+}
+.blog-active .slick-prev {
+	left: 45%;
+}
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 768px) {
+	.auto-container {
+	padding: 0px 0px;
+}
+.header-transparent .menu-nav-sec.sticky_menu {
+	padding: 20px 0px;
+}
+ .top {
+	position: absolute;
+	 right: 0%; 
+	 left: 0%; 
+}
+.f-left {
+	float: left;
+	margin-bottom: 10px;
+}
+.main {
+	margin-left: 50px;
+}
+#sync1 .item h3 {
+	font-size: 12px;
+}
+.topbar {
+	height: 70px;
+}
+.progress-content p {
+	padding: 10px;
+}
+.meet-the-team-content {
+	margin-bottom: 20px;
+}
+.testimonial-section {
+	padding: 32px 25px;
+}
+.hills {
+	left: -4%;
+}
+.\34 0-hour img {
+	max-width: 100%;
+	width: 70%;
+}
+.\34 0-hour {
+	right: -9%;
+	top: 40%;
+}
+.hills-image img {
+	max-width: 100%;
+	width: 65%;
+}
+.single_table {
+	margin-bottom: 100px;
+}
+.service-page-section {
+	padding: 30px 25px;
+}
+.skll-section.style-two {
+	padding: 10px 17px;
+}
+.section-cr4zq.style-two {
+	padding: 50px 25px;
+}
+.portfolio-area .button-group {
+	padding: 0px 0px;
+}
+.testimonial-section.style-three {
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+.portfolio-area button {
+	padding: 20px 7px;
+	margin-bottom: 25px;
+}
+
+.logo {
+	text-align: center;
+}
+.tool {
+	left: 100%;
+}
+a.arrow_box {
+	margin-bottom: 50px;
+}
+.text-right .btn, .pull-right > .btn {
+	margin-right: 25px;
+}
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.\34 0-hour {
+	position: absolute;
+	right: 17%;
+	top: 51%;
+}
+}
